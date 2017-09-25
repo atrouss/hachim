@@ -15,7 +15,7 @@ setcookie('Password', '');
   <head>
   <meta charset="UTF-8">
    <link rel="stylesheet" href="styles/style1.css" type="text/css" />
-   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" >
+   <!-- <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" > -->
 
   <title></title>
   </head>
